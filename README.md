@@ -36,10 +36,7 @@ This app is the **solution**. With one tap, it starts taking pictures every few 
 
 ## 📷 App Preview
 
-| Capture Loop Mode | Flash Mode Toggle |
-|-------------------|-------------------|
-| ![auto_capture](https://via.placeholder.com/250x500.png?text=Auto+Capture+Demo) | ![flash_toggle](https://via.placeholder.com/250x500.png?text=Flashlight+Toggle) |
-
+![image_alt](https://github.com/Ali-Hamza-007/Auto_Images_Capturer/blob/8c5d1562ef863b5f1c28f002e4a739d51e59ee5c/HomePage.png)
 ---
 
 ## 📲 How It Works
