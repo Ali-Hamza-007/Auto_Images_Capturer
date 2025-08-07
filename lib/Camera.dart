@@ -28,7 +28,7 @@ class _CameraScreenState extends State<Camera> {
     try {
       _controller = CameraController(
         widget.cameras[0],
-        ResolutionPreset.medium,
+        ResolutionPreset.max,
       );
       await _controller.initialize();
       if (!mounted) return;
