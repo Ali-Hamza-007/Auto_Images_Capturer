@@ -1,16 +1,59 @@
-# image_capture
+# 📸 Auto Image Capturer (Flutter App)
 
-A new Flutter project.
+A professional Flutter camera application that **automatically captures and saves images repeatedly until stopped manually**.  
+This app solves the common problem:  
+**“How to capture images randomly or in a loop using the phone camera?”**
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ Fullscreen Camera Preview  
+✅ Auto Capture Loop until Stop Button is Pressed  
+✅ Flashlight Toggle (Torch Mode)  
+✅ Gallery Save with Success Feedback  
+✅ Clean, Modern UI using Flutter  
+✅ Runs on physical Android devices with camera access  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Problem It Solves
+
+> 📷 _“How can I capture multiple random pictures automatically without pressing the capture button each time?”_
+
+This app is the **solution**. With one tap, it starts taking pictures every few seconds and saves them automatically to your gallery. Tap again to stop.
+
+---
+
+## 🛠️ Technologies Used
+
+- 🔧 **Flutter** – UI framework for cross-platform apps  
+- 📦 `camera` – For accessing the device camera  
+- 💾 `gallery_saver_plus` – To save images to the phone's gallery  
+- 📂 `path_provider` – For file management  
+
+---
+
+## 📷 App Preview
+
+| Capture Loop Mode | Flash Mode Toggle |
+|-------------------|-------------------|
+| ![auto_capture](https://via.placeholder.com/250x500.png?text=Auto+Capture+Demo) | ![flash_toggle](https://via.placeholder.com/250x500.png?text=Flashlight+Toggle) |
+
+---
+
+## 📲 How It Works
+
+1. On app launch, the camera opens in fullscreen.
+2. Tap the **📸 Start Capture** button to begin automatic image capturing.
+3. The app saves images continuously every few seconds.
+4. Tap the **⛔ Stop** button to end the loop.
+5. All images are saved in your device gallery with success feedback.
+
+---
+
+## 🧩 Getting Started
+
+### 1. Clone the repo:
+
+
