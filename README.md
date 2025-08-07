@@ -36,7 +36,7 @@ This app is the **solution**. With one tap, it starts taking pictures every few 
 
 ## 📷 App Preview
 
-![image_alt](https://github.com/Ali-Hamza-007/Auto_Images_Capturer/blob/8c5d1562ef863b5f1c28f002e4a739d51e59ee5c/HomePage.png)
+![image_alt](https://github.com/Ali-Hamza-007/Auto_Images_Capturer/blob/0db1a4274503eb803d2338313fa707bf6ca712fd/screenshot.png)
 ---
 
 ## 📲 How It Works
